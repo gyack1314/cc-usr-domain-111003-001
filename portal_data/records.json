@@ -1,0 +1,211 @@
+[
+  {
+    "id": "C1",
+    "category": "证照",
+    "title": "总部电气资质",
+    "revision": 1,
+    "fields": {
+      "entity": "91330001A",
+      "scope": [
+        "电气"
+      ],
+      "start": "2026-01-01",
+      "end": "2026-11-22"
+    }
+  },
+  {
+    "id": "C2",
+    "category": "证照",
+    "title": "总部续期证明",
+    "revision": 1,
+    "fields": {
+      "entity": "91330001A",
+      "scope": [
+        "电气"
+      ],
+      "start": "2026-11-23",
+      "end": "2027-11-22",
+      "supersedes": "C1",
+      "issuer": "园区认可机构"
+    }
+  },
+  {
+    "id": "C3",
+    "category": "证照",
+    "title": "青禾高空证",
+    "revision": 1,
+    "fields": {
+      "entity": "91330001A",
+      "scope": [
+        "高空"
+      ],
+      "start": "2026-01-01",
+      "end": "2027-01-01"
+    }
+  },
+  {
+    "id": "C4",
+    "category": "证照",
+    "title": "海桥巡检证",
+    "revision": 1,
+    "fields": {
+      "entity": "91330003C",
+      "scope": [
+        "一般巡检"
+      ],
+      "start": "2026-01-01",
+      "end": "2027-01-01"
+    }
+  },
+  {
+    "id": "A1",
+    "category": "授权",
+    "title": "总部至分公司",
+    "revision": 1,
+    "fields": {
+      "grantor": "91330001A",
+      "grantee": "91330002B",
+      "scope": [
+        "高空"
+      ],
+      "start": "2026-11-01",
+      "end": "2026-11-30",
+      "redelegate": false
+    }
+  },
+  {
+    "id": "A2",
+    "category": "授权",
+    "title": "分公司至远岸",
+    "revision": 1,
+    "fields": {
+      "grantor": "91330002B",
+      "grantee": "91330004D",
+      "scope": [
+        "高空",
+        "电气"
+      ],
+      "start": "2026-11-01",
+      "end": "2026-12-31",
+      "redelegate": true
+    }
+  },
+  {
+    "id": "A3",
+    "category": "授权",
+    "title": "远岸至海桥",
+    "revision": 1,
+    "fields": {
+      "grantor": "91330004D",
+      "grantee": "91330003C",
+      "scope": [
+        "电气"
+      ],
+      "start": "2026-11-01",
+      "end": "2026-12-31",
+      "redelegate": true
+    }
+  },
+  {
+    "id": "A4",
+    "category": "授权",
+    "title": "海桥至远岸",
+    "revision": 1,
+    "fields": {
+      "grantor": "91330003C",
+      "grantee": "91330004D",
+      "scope": [
+        "电气"
+      ],
+      "start": "2026-11-01",
+      "end": "2026-12-31",
+      "redelegate": true
+    }
+  },
+  {
+    "id": "N1",
+    "category": "撤销",
+    "title": "高空授权撤销",
+    "revision": 1,
+    "fields": {
+      "target": "A1",
+      "effective": "2026-11-19",
+      "reason": "高空合作终止"
+    }
+  },
+  {
+    "id": "P1",
+    "category": "人员",
+    "title": "人员执业资料 1",
+    "revision": 1,
+    "fields": {
+      "person": "P1",
+      "entity": "91330001A",
+      "scope": [
+        "电气"
+      ],
+      "start": "2026-01-01",
+      "end": "2027-01-01"
+    }
+  },
+  {
+    "id": "P2",
+    "category": "人员",
+    "title": "人员执业资料 2",
+    "revision": 1,
+    "fields": {
+      "person": "P2",
+      "entity": "91330001A",
+      "scope": [
+        "电气"
+      ],
+      "start": "2026-01-01",
+      "end": "2026-11-25"
+    }
+  },
+  {
+    "id": "P3",
+    "category": "人员",
+    "title": "人员执业资料 3",
+    "revision": 1,
+    "fields": {
+      "person": "P3",
+      "entity": "91330002B",
+      "scope": [
+        "高空"
+      ],
+      "start": "2026-01-01",
+      "end": "2027-01-01"
+    }
+  },
+  {
+    "id": "P4",
+    "category": "人员",
+    "title": "人员执业资料 4",
+    "revision": 1,
+    "fields": {
+      "person": "P4",
+      "entity": "91330003C",
+      "scope": [
+        "一般巡检"
+      ],
+      "start": "2026-01-01",
+      "end": "2027-01-01"
+    }
+  },
+  {
+    "id": "P5",
+    "category": "人员",
+    "title": "人员执业资料 5",
+    "revision": 1,
+    "fields": {
+      "person": "P5",
+      "entity": "91330004D",
+      "scope": [
+        "电气"
+      ],
+      "start": "2026-01-01",
+      "end": "2027-01-01"
+    }
+  }
+]
