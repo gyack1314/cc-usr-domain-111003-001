@@ -1,0 +1,276 @@
+{
+  "catalog_pages": [
+    "catalog/page1",
+    "catalog/page2",
+    "catalog/page3"
+  ],
+  "drafts_page": "drafts-before",
+  "portal": "http://127.0.0.1:8765",
+  "records": {
+    "A1": {
+      "attachment_sha256": "27af8e388c7dd463302c8b68743348ce641b84d2e00d9d4501db019893056735",
+      "attachment_url": "http://127.0.0.1:8765/attachment/A1",
+      "document_file": "A1.txt",
+      "document_sha256": "696071401b7216a81ea26d046300e2053b383da1cb6266e7e1eb0a7f408936d8",
+      "document_url": "http://127.0.0.1:8765/document/A1",
+      "fields": {
+        "end": "2026-11-30",
+        "grantee": "91330002B",
+        "grantor": "91330001A",
+        "redelegate": false,
+        "scope": [
+          "高空"
+        ],
+        "start": "2026-11-01"
+      },
+      "page_archive": "pages/A1",
+      "record_url": "http://127.0.0.1:8765/record/A1",
+      "reference": "A1@27af8e388c7dd463302c8b68743348ce641b84d2e00d9d4501db019893056735"
+    },
+    "A2": {
+      "attachment_sha256": "1b89187e0c25aea8f47065b97a6bd4bf3f174ead3dc9240dbb783ed08d99ed02",
+      "attachment_url": "http://127.0.0.1:8765/attachment/A2",
+      "document_file": "A2.txt",
+      "document_sha256": "807940d26a220d726ef7330deeab5f7e3131af7703d2f5ee68159b3a558e4f77",
+      "document_url": "http://127.0.0.1:8765/document/A2",
+      "fields": {
+        "end": "2026-12-31",
+        "grantee": "91330004D",
+        "grantor": "91330002B",
+        "redelegate": true,
+        "scope": [
+          "高空",
+          "电气"
+        ],
+        "start": "2026-11-01"
+      },
+      "page_archive": "pages/A2",
+      "record_url": "http://127.0.0.1:8765/record/A2",
+      "reference": "A2@1b89187e0c25aea8f47065b97a6bd4bf3f174ead3dc9240dbb783ed08d99ed02"
+    },
+    "A3": {
+      "attachment_sha256": "1a467878fba5c5fa33a45cb01a87efc7bf18ed4164c2995a151774c34b4857a3",
+      "attachment_url": "http://127.0.0.1:8765/attachment/A3",
+      "document_file": "A3.txt",
+      "document_sha256": "0e133e03d57f9d1855f3c9c6b95e5a0a5c8d86f4e3c5204e9884c16d1299eadb",
+      "document_url": "http://127.0.0.1:8765/document/A3",
+      "fields": {
+        "end": "2026-12-31",
+        "grantee": "91330003C",
+        "grantor": "91330004D",
+        "redelegate": true,
+        "scope": [
+          "电气"
+        ],
+        "start": "2026-11-01"
+      },
+      "page_archive": "pages/A3",
+      "record_url": "http://127.0.0.1:8765/record/A3",
+      "reference": "A3@1a467878fba5c5fa33a45cb01a87efc7bf18ed4164c2995a151774c34b4857a3"
+    },
+    "A4": {
+      "attachment_sha256": "4c343fd612b9135b697d0c7a4657f668798eb8ac26d384bf55aa62197e7e2e16",
+      "attachment_url": "http://127.0.0.1:8765/attachment/A4",
+      "document_file": "A4.txt",
+      "document_sha256": "0f16d870ee51bf7212baeccde0473fad310d1e80be7de90d66517b30f15cba5b",
+      "document_url": "http://127.0.0.1:8765/document/A4",
+      "fields": {
+        "end": "2026-12-31",
+        "grantee": "91330004D",
+        "grantor": "91330003C",
+        "redelegate": true,
+        "scope": [
+          "电气"
+        ],
+        "start": "2026-11-01"
+      },
+      "page_archive": "pages/A4",
+      "record_url": "http://127.0.0.1:8765/record/A4",
+      "reference": "A4@4c343fd612b9135b697d0c7a4657f668798eb8ac26d384bf55aa62197e7e2e16"
+    },
+    "C1": {
+      "attachment_sha256": "2830b721ddbcee9cb065e6196acfdc579710a4f089f09f5d188a0a86a688b0ee",
+      "attachment_url": "http://127.0.0.1:8765/attachment/C1",
+      "document_file": "C1.txt",
+      "document_sha256": "5b4c2fba752544536a9235226a397a4dacf2a8661a50ff61366c25efe839c969",
+      "document_url": "http://127.0.0.1:8765/document/C1",
+      "fields": {
+        "end": "2026-11-22",
+        "entity": "91330001A",
+        "scope": [
+          "电气"
+        ],
+        "start": "2026-01-01"
+      },
+      "page_archive": "pages/C1",
+      "record_url": "http://127.0.0.1:8765/record/C1",
+      "reference": "C1@2830b721ddbcee9cb065e6196acfdc579710a4f089f09f5d188a0a86a688b0ee"
+    },
+    "C2": {
+      "attachment_sha256": "637fdf7e40f91c31a08fa27ffce5574cb86cd6e34ff01b66fab608c591ee860b",
+      "attachment_url": "http://127.0.0.1:8765/attachment/C2",
+      "document_file": "C2.txt",
+      "document_sha256": "c970c656739e11773711e7651cf0a4116dd826f90ea978c0559fbc3556b34abb",
+      "document_url": "http://127.0.0.1:8765/document/C2",
+      "fields": {
+        "end": "2027-11-22",
+        "entity": "91330001A",
+        "issuer": "园区认可机构",
+        "scope": [
+          "电气"
+        ],
+        "start": "2026-11-23",
+        "supersedes": "C1"
+      },
+      "page_archive": "pages/C2",
+      "record_url": "http://127.0.0.1:8765/record/C2",
+      "reference": "C2@637fdf7e40f91c31a08fa27ffce5574cb86cd6e34ff01b66fab608c591ee860b"
+    },
+    "C3": {
+      "attachment_sha256": "88e2cfabf719adf593dc76ef4749cf20b32a9d24503c1f4bfdf38a54b29a2b2f",
+      "attachment_url": "http://127.0.0.1:8765/attachment/C3",
+      "document_file": "C3.txt",
+      "document_sha256": "29b621f06d06bd723668fbdef5e71b08c1fbe6139fbc29cded9f9a9f918fdf95",
+      "document_url": "http://127.0.0.1:8765/document/C3",
+      "fields": {
+        "end": "2027-01-01",
+        "entity": "91330001A",
+        "scope": [
+          "高空"
+        ],
+        "start": "2026-01-01"
+      },
+      "page_archive": "pages/C3",
+      "record_url": "http://127.0.0.1:8765/record/C3",
+      "reference": "C3@88e2cfabf719adf593dc76ef4749cf20b32a9d24503c1f4bfdf38a54b29a2b2f"
+    },
+    "C4": {
+      "attachment_sha256": "d70e09a7ad509ad3a4222a7d38bb5c0102bf92fd0639f0365409846d3f5bf1b4",
+      "attachment_url": "http://127.0.0.1:8765/attachment/C4",
+      "document_file": "C4.txt",
+      "document_sha256": "c70c70467ceb6beba4e48b066501960d0a012d0392f936295c0e5fa07037890d",
+      "document_url": "http://127.0.0.1:8765/document/C4",
+      "fields": {
+        "end": "2027-01-01",
+        "entity": "91330003C",
+        "scope": [
+          "一般巡检"
+        ],
+        "start": "2026-01-01"
+      },
+      "page_archive": "pages/C4",
+      "record_url": "http://127.0.0.1:8765/record/C4",
+      "reference": "C4@d70e09a7ad509ad3a4222a7d38bb5c0102bf92fd0639f0365409846d3f5bf1b4"
+    },
+    "N1": {
+      "attachment_sha256": "151acad8dc743323313ae996d2c295a7d33eccf3976427658b3dd841abba915a",
+      "attachment_url": "http://127.0.0.1:8765/attachment/N1",
+      "document_file": "N1.txt",
+      "document_sha256": "cc825d14edeab5ac4495e832c2489aad50b4e6899838bf2a070aa71b5d2af99c",
+      "document_url": "http://127.0.0.1:8765/document/N1",
+      "fields": {
+        "effective": "2026-11-19",
+        "reason": "高空合作终止",
+        "target": "A1"
+      },
+      "page_archive": "pages/N1",
+      "record_url": "http://127.0.0.1:8765/record/N1",
+      "reference": "N1@151acad8dc743323313ae996d2c295a7d33eccf3976427658b3dd841abba915a"
+    },
+    "P1": {
+      "attachment_sha256": "e5bd1706efef2edc383538508ea23da0c06f40d795f5b12bea91438d56c02cb1",
+      "attachment_url": "http://127.0.0.1:8765/attachment/P1",
+      "document_file": "P1.txt",
+      "document_sha256": "0b4c54cd9440c3495d9796b8e73e502f9a556ac6e84f5626bb84b8b0e74dd211",
+      "document_url": "http://127.0.0.1:8765/document/P1",
+      "fields": {
+        "end": "2027-01-01",
+        "entity": "91330001A",
+        "person": "P1",
+        "scope": [
+          "电气"
+        ],
+        "start": "2026-01-01"
+      },
+      "page_archive": "pages/P1",
+      "record_url": "http://127.0.0.1:8765/record/P1",
+      "reference": "P1@e5bd1706efef2edc383538508ea23da0c06f40d795f5b12bea91438d56c02cb1"
+    },
+    "P2": {
+      "attachment_sha256": "f610ff5cad5d31d06a641a46d70471a27aa51e9f62fe40164e3dcce39b7adf2e",
+      "attachment_url": "http://127.0.0.1:8765/attachment/P2",
+      "document_file": "P2.txt",
+      "document_sha256": "18dffdfe5524122cb99ace3c2971b153606820f134b0f351581e9516d40ad214",
+      "document_url": "http://127.0.0.1:8765/document/P2",
+      "fields": {
+        "end": "2026-11-25",
+        "entity": "91330001A",
+        "person": "P2",
+        "scope": [
+          "电气"
+        ],
+        "start": "2026-01-01"
+      },
+      "page_archive": "pages/P2",
+      "record_url": "http://127.0.0.1:8765/record/P2",
+      "reference": "P2@f610ff5cad5d31d06a641a46d70471a27aa51e9f62fe40164e3dcce39b7adf2e"
+    },
+    "P3": {
+      "attachment_sha256": "182dcbbfdf8f4c7e232b29f7b2d7ed24ecabcf6629413c2a8644c1c96537bc0a",
+      "attachment_url": "http://127.0.0.1:8765/attachment/P3",
+      "document_file": "P3.txt",
+      "document_sha256": "4825308807dd457d40120fc0f686247f8d2af0aee2adc458591ffe024588f51a",
+      "document_url": "http://127.0.0.1:8765/document/P3",
+      "fields": {
+        "end": "2027-01-01",
+        "entity": "91330002B",
+        "person": "P3",
+        "scope": [
+          "高空"
+        ],
+        "start": "2026-01-01"
+      },
+      "page_archive": "pages/P3",
+      "record_url": "http://127.0.0.1:8765/record/P3",
+      "reference": "P3@182dcbbfdf8f4c7e232b29f7b2d7ed24ecabcf6629413c2a8644c1c96537bc0a"
+    },
+    "P4": {
+      "attachment_sha256": "b464a0a18122b6ac11205e339cac8df54b3e66dc2d348c4285975d43d52563ab",
+      "attachment_url": "http://127.0.0.1:8765/attachment/P4",
+      "document_file": "P4.txt",
+      "document_sha256": "bf7fddc068ff883b03a968c1464ff30bc4d5d48878aaa0c009477c1f0910a518",
+      "document_url": "http://127.0.0.1:8765/document/P4",
+      "fields": {
+        "end": "2027-01-01",
+        "entity": "91330003C",
+        "person": "P4",
+        "scope": [
+          "一般巡检"
+        ],
+        "start": "2026-01-01"
+      },
+      "page_archive": "pages/P4",
+      "record_url": "http://127.0.0.1:8765/record/P4",
+      "reference": "P4@b464a0a18122b6ac11205e339cac8df54b3e66dc2d348c4285975d43d52563ab"
+    },
+    "P5": {
+      "attachment_sha256": "25a827d15032d39554093fcdd030480b3c74c8c895e3d047e00d9e5b6331de1c",
+      "attachment_url": "http://127.0.0.1:8765/attachment/P5",
+      "document_file": "P5.txt",
+      "document_sha256": "3358267d68b57a947ca1a074613747f87d8fe4beac269a790bc8abf10d5880ac",
+      "document_url": "http://127.0.0.1:8765/document/P5",
+      "fields": {
+        "end": "2027-01-01",
+        "entity": "91330004D",
+        "person": "P5",
+        "scope": [
+          "电气"
+        ],
+        "start": "2026-01-01"
+      },
+      "page_archive": "pages/P5",
+      "record_url": "http://127.0.0.1:8765/record/P5",
+      "reference": "P5@25a827d15032d39554093fcdd030480b3c74c8c895e3d047e00d9e5b6331de1c"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "path": "entities.csv",
+    "sha256": "d998c60535e17c94dd5fff02083c8856614a2694baeaa68f143834413882d3af",
+    "size": 165
+  },
+  {
+    "path": "policy.md",
+    "sha256": "a43a146b2238ac4bddf55c22040d1b3ebfab78fecd30ca1a55ebc000bc848391",
+    "size": 445
+  },
+  {
+    "path": "shifts.csv",
+    "sha256": "325be88bb0aa960e9ace5e8193ec6d4c241c3af027d8e75849508bf698757eeb",
+    "size": 238
+  },
+  {
+    "path": "site.md",
+    "sha256": "b221638030f809cd8fba4d0b9d54595cc50f7ee8ffaf1f934d8de74c676ba91a",
+    "size": 160
+  }
+]

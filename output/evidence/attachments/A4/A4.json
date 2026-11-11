@@ -1,0 +1,16 @@
+{
+  "category": "授权",
+  "fields": {
+    "end": "2026-12-31",
+    "grantee": "91330004D",
+    "grantor": "91330003C",
+    "redelegate": true,
+    "scope": [
+      "电气"
+    ],
+    "start": "2026-11-01"
+  },
+  "id": "A4",
+  "revision": 1,
+  "title": "海桥至远岸"
+}

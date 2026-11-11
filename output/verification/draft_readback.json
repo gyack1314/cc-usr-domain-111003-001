@@ -1,0 +1,8 @@
+{
+  "body_match": true,
+  "refs_match": true,
+  "status": "待人工审批",
+  "title_match": true,
+  "url": "http://127.0.0.1:8765/draft/precheck-2026-11-16-30",
+  "version": "1"
+}

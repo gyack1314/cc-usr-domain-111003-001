@@ -1,0 +1,16 @@
+{
+  "category": "授权",
+  "fields": {
+    "end": "2026-11-30",
+    "grantee": "91330002B",
+    "grantor": "91330001A",
+    "redelegate": false,
+    "scope": [
+      "高空"
+    ],
+    "start": "2026-11-01"
+  },
+  "id": "A1",
+  "revision": 1,
+  "title": "总部至分公司"
+}

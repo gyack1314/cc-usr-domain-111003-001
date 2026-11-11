@@ -1,0 +1,8 @@
+{
+  "input_file": "output/verification/tool_inputs/T1-cert-C1.json",
+  "result": [
+    "2026-11-16",
+    "2026-11-22"
+  ],
+  "tool": "intersection"
+}

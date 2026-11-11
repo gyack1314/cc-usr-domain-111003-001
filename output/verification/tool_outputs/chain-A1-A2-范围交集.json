@@ -1,0 +1,7 @@
+{
+  "input_file": "output/verification/tool_inputs/chain-A1-A2-范围交集.json",
+  "result": [
+    "高空"
+  ],
+  "tool": "scope_intersection"
+}

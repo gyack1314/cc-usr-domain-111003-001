@@ -1,0 +1,11 @@
+{
+  "category": "撤销",
+  "fields": {
+    "effective": "2026-11-19",
+    "reason": "高空合作终止",
+    "target": "A1"
+  },
+  "id": "N1",
+  "revision": 1,
+  "title": "高空授权撤销"
+}

@@ -1,0 +1,5 @@
+{
+  "input_file": "output/verification/tool_inputs/全授权图-总部至远岸.json",
+  "result": true,
+  "tool": "reachable"
+}

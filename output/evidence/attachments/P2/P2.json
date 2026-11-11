@@ -1,0 +1,15 @@
+{
+  "category": "人员",
+  "fields": {
+    "end": "2026-11-25",
+    "entity": "91330001A",
+    "person": "P2",
+    "scope": [
+      "电气"
+    ],
+    "start": "2026-01-01"
+  },
+  "id": "P2",
+  "revision": 1,
+  "title": "人员执业资料 2"
+}

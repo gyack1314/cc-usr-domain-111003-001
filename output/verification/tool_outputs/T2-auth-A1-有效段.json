@@ -1,0 +1,8 @@
+{
+  "input_file": "output/verification/tool_inputs/T2-auth-A1-有效段.json",
+  "result": [
+    "2026-11-16",
+    "2026-11-18"
+  ],
+  "tool": "intersection"
+}

@@ -1,0 +1,16 @@
+{
+  "category": "证照",
+  "fields": {
+    "end": "2027-11-22",
+    "entity": "91330001A",
+    "issuer": "园区认可机构",
+    "scope": [
+      "电气"
+    ],
+    "start": "2026-11-23",
+    "supersedes": "C1"
+  },
+  "id": "C2",
+  "revision": 1,
+  "title": "总部续期证明"
+}

@@ -1,0 +1,15 @@
+{
+  "category": "人员",
+  "fields": {
+    "end": "2027-01-01",
+    "entity": "91330002B",
+    "person": "P3",
+    "scope": [
+      "高空"
+    ],
+    "start": "2026-01-01"
+  },
+  "id": "P3",
+  "revision": 1,
+  "title": "人员执业资料 3"
+}
